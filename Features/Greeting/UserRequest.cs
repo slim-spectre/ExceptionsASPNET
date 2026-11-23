@@ -1,0 +1,1 @@
+public record UserRequest(string Name, int Age);
